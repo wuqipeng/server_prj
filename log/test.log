@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFO 2016-03-24 11:32:37.894:140056052091216 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 11:32:37.894:140056072361728 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 11:32:37.894:140056052091216 log.cpp:42 "thread exit!"
+INFO 2016-03-24 11:34:57.731:140591352994128 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 11:34:57.732:140591373264640 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 11:34:57.732:140591352994128 log.cpp:42 "thread exit!"
+INFO 2016-03-24 11:40:10.498:140320377649488 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 11:40:10.498:140320397920000 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 11:40:36.323:140320377649488 log.cpp:42 "thread exit!"
+INFO 2016-03-24 11:42:33.065:140289652087120 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 11:42:33.065:140289672357632 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 11:42:33.065:140289652087120 log.cpp:42 "thread exit!"
+INFO 2016-03-24 11:42:56.606:139774822532864 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 11:42:56.606:139774802262352 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 15:50:47.244:140288567133952 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 15:50:47.244:140288546863440 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 15:50:47.259:140288546863440 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 15:50:47.259:140288546863440 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 15:50:47.259:140288546863440 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 15:50:52.334:140552831695184 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 15:50:52.334:140552851965696 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 15:50:52.335:140552831695184 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 15:50:52.335:140552831695184 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 15:50:52.335:140552831695184 log.cpp:42 "register observer successful!"
+INFO 2016-03-24 15:55:41.855:139801626007888 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 15:55:41.855:139801626007888 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 15:55:41.855:139801626007888 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 15:55:41.855:139801626007888 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 15:55:41.855:139801646278400 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 15:55:41.855:139801626007888 log.cpp:42 "thread exit!"
+INFO 2016-03-24 15:56:21.764:140445507426640 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 15:56:21.765:140445507426640 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 15:56:21.765:140445507426640 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 15:56:21.765:140445507426640 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 15:56:21.764:140445527697152 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 15:56:21.765:140445507426640 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:02:40.236:140231252949328 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:02:40.236:140231252949328 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:02:40.236:140231252949328 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:02:40.236:140231252949328 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 16:02:40.236:140231273219840 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:02:40.236:140231252949328 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:03:53.794:139709038070096 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:03:53.795:139709058340608 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:03:53.795:139709038070096 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:03:53.795:139709038070096 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:03:53.795:139709038070096 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 16:03:53.795:139709058340608 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:03:53.795:139709038070096 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:13:06.375:139877159356752 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:13:06.375:139877159356752 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:13:06.375:139877159356752 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:13:06.375:139877179627264 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:13:06.375:139877179627264 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:13:06.375:139877159356752 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 16:13:06.375:139877179627264 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:13:06.376:139877159356752 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:13:08.045:140083582478672 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:13:08.045:140083582478672 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:13:08.045:140083582478672 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:13:08.045:140083582478672 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 16:13:08.045:140083602749184 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:13:08.045:140083602749184 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:13:08.045:140083602749184 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:13:08.045:140083582478672 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:13:09.355:139879560370512 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:13:09.355:139879580641024 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:13:09.355:139879560370512 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:13:09.355:139879560370512 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:13:09.355:139879580641024 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:13:09.355:139879560370512 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 16:13:09.355:139879580641024 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:13:09.355:139879560370512 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:13:10.085:139695990802768 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:13:10.085:139695990802768 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:13:10.085:139696011073280 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:13:10.085:139696011073280 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:13:10.085:139696011073280 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:13:10.085:139695990802768 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:13:10.085:139695990802768 log.cpp:42 "register observer successful,size is 0"
+INFO 2016-03-24 16:13:15.404:140633379641680 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:13:15.405:140633399912192 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:13:15.405:140633379641680 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:13:15.405:140633379641680 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:13:15.405:140633379641680 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 16:13:15.405:140633399912192 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:13:15.405:140633399912192 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:13:15.405:140633379641680 log.cpp:42 "thread exit!"
+INFO 2016-03-24 16:24:46.935:140307368032592 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:24:46.935:140307368032592 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:24:46.935:140307368032592 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:24:46.935:140307368032592 log.cpp:42 "register observer failed! "
+INFO 2016-03-24 16:24:46.935:140307368032592 log.cpp:42 "register observer failed! "
+INFO 2016-03-24 16:24:46.935:140307388303104 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:24:46.935:140307388303104 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:24:46.935:140307388303104 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:24:46.935:140307368032592 log.cpp:42 "register observer failed! "
+INFO 2016-03-24 16:26:17.684:140310351427920 log.cpp:42 "registerObser start!"
+INFO 2016-03-24 16:26:17.684:140310371698432 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 16:26:17.684:140310351427920 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 16:26:17.684:140310351427920 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 16:26:17.684:140310351427920 log.cpp:42 "register observer failed! "
+INFO 2016-03-24 16:26:17.684:140310371698432 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 16:26:17.685:140310371698432 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 16:26:17.685:140310351427920 log.cpp:42 "thread exit!"
+INFO 2016-03-24 17:43:37.795:139695482014032 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 17:43:37.795:139695482014032 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 17:43:37.795:139695502284544 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 17:43:37.795:139695502284544 log.cpp:42 "Observer valid!"
+INFO 2016-03-24 17:43:37.795:139695502284544 log.cpp:42 "Observerable notify i : 1"
+INFO 2016-03-24 17:43:37.795:139695502284544 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 17:43:37.795:139695482014032 log.cpp:42 "thread exit!"
+INFO 2016-03-24 17:44:40.475:140034718341456 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 17:44:40.475:140034718341456 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-24 17:44:40.475:140034738611968 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 17:44:40.476:140034738611968 log.cpp:42 "Observer valid!"
+INFO 2016-03-24 17:44:40.476:140034738611968 log.cpp:42 "Observerable notify i : 1"
+INFO 2016-03-24 17:44:40.476:140034738611968 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 17:44:40.476:140034718341456 log.cpp:42 "thread exit!"
+INFO 2016-03-24 17:56:08.403:140427211020624 log.cpp:42 "registerObser: 1"
+INFO 2016-03-24 17:56:08.403:140427211020624 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-24 17:56:08.403:140427211020624 log.cpp:42 "registerObser end!"
+INFO 2016-03-24 17:56:08.403:140427211020624 log.cpp:42 "register observer failed! "
+INFO 2016-03-24 17:56:08.403:140427231291136 log.cpp:42 "observer sum is 1"
+INFO 2016-03-24 17:56:08.403:140427231291136 log.cpp:42 "Observer invalid!"
+INFO 2016-03-24 17:56:08.403:140427231291136 log.cpp:42 "observer sum is 0"
+INFO 2016-03-24 17:56:08.403:140427211020624 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:16:04.315:140467177384272 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-25 10:16:04.315:140467177384272 log.cpp:42 "register observer successful,size is 1"
+INFO 2016-03-25 10:16:04.315:140467197654784 log.cpp:42 "observer sum is 1"
+INFO 2016-03-25 10:16:04.315:140467197654784 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:16:04.315:140467197654784 log.cpp:42 "Observerable notify i : 1"
+INFO 2016-03-25 10:16:04.315:140467197654784 log.cpp:42 "observer sum is 1"
+INFO 2016-03-25 10:16:04.316:140467177384272 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.375:139995143293264 log.cpp:42 "registerObserver ,size is 1"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "observer sum is 1"
+INFO 2016-03-25 10:22:32.376:139995151685968 log.cpp:42 "registerObserver ,size is 2"
+INFO 2016-03-25 10:22:32.376:139995134900560 log.cpp:42 "registerObserver ,size is 3"
+INFO 2016-03-25 10:22:32.376:139995126507856 log.cpp:42 "registerObserver ,size is 4"
+INFO 2016-03-25 10:22:32.376:139995118115152 log.cpp:42 "registerObserver ,size is 5"
+INFO 2016-03-25 10:22:32.376:139995109722448 log.cpp:42 "registerObserver ,size is 6"
+INFO 2016-03-25 10:22:32.376:139995101329744 log.cpp:42 "registerObserver ,size is 7"
+INFO 2016-03-25 10:22:32.376:139995092937040 log.cpp:42 "registerObserver ,size is 8"
+INFO 2016-03-25 10:22:32.376:139995084544336 log.cpp:42 "registerObserver ,size is 9"
+INFO 2016-03-25 10:22:32.376:139995076151632 log.cpp:42 "registerObserver ,size is 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "observer sum is 10"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.376:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 9"
+INFO 2016-03-25 10:22:32.376:139995143293264 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "observer sum is 10"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995151685968 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 8"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "observer sum is 9"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.377:139995134900560 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.377:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 7"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "observer sum is 8"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995126507856 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "observer sum is 7"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995118115152 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "observer sum is 6"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 4"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995109722448 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 4"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 4"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 4"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 4"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "observer sum is 5"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995101329744 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 3"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 3"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.378:139995171956480 log.cpp:42 "Observerable notify i : 3"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observerable notify i : 3"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "observer sum is 4"
+INFO 2016-03-25 10:22:32.379:139995092937040 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer invalid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observerable notify i : 2"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observerable notify i : 2"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "observer sum is 2"
+INFO 2016-03-25 10:22:32.379:139995084544336 log.cpp:42 "thread exit!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observerable notify i : 1"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observer valid!"
+INFO 2016-03-25 10:22:32.379:139995171956480 log.cpp:42 "Observerable notify i : 1"
+INFO 2016-03-25 10:22:32.379:139995076151632 log.cpp:42 "thread exit!"

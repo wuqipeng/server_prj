@@ -1,0 +1,56 @@
+#ifndef TRANSPORTEXCEPTION_H_
+#define TRANSPORTEXCEPTION_H_
+
+#include "Exception.h"
+
+namespace server { namespace exception {
+
+class TransportException::public Exception
+{
+	public:
+		enum TransportExceptionType
+		{	
+			UNKNOWN = 0,
+			UN_CONNECT,
+			UN_READ,
+			UN_WRITE
+		};
+
+		TransportException():
+			Exception(),
+			type_(UNKNOWN){
+
+			}
+			
+		TransportException(const TransportExceptionType type):
+			Exception(),
+			type_(type){
+
+			}
+	
+		TransportException(const string msg):
+			Exception(msg),
+			type_(UNKNOWN){
+
+			}
+
+		TransportException(const TransportExceptionType type,const string msg):
+			Exception(msg),
+			type_(type){
+
+			}
+
+		virtual const char* what() throw();
+
+		TransportExceptionType GetExceptionType() throw();
+		
+	private:
+		TransportExceptionType type_ ;
+};
+
+
+}}
+
+
+
+#endif
